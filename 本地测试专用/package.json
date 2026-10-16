@@ -8,7 +8,7 @@
     "dev": "nodemon local_server_full_cf_simulation.js"
   },
   "dependencies": {
-    "express": "^4.22.1"
+    "express": "^4.22.3"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
